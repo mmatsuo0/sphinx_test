@@ -1,4 +1,6 @@
+[![Documentation Status](https://readthedocs.org/projects/mmatsuo0-sphinx-test/badge/?version=latest)](http://mmatsuo0-sphinx-test.readthedocs.io/en/latest/?badge=latest)
 # sphinx_test
-sphinx_test
 
-[Read the Docs](http://mmatsuo0-sphinx-test.readthedocs.io/en/latest/)
+sphinxでドキュメントを作成し、Read the DocsでWebにする。
+
+[Read the Docsで作成されたページ](http://mmatsuo0-sphinx-test.readthedocs.io/en/latest/)
